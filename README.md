@@ -1,0 +1,2 @@
+# INFERNO-X-Fire-Detection-Surveillance-Robot
+Development of an autonomous fire detection &amp; surveillance robot designed for hazardous-environment monitoring using gas, temperature, and ultrasonic sensors.  The robot integrates real-time sensor acquisition, hazard detection, motor control, autonomous navigation &amp; solar-assisted power management for improved autonomy in challenging environments.
